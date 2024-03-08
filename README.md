@@ -1,2 +1,2 @@
-# Book-Shop-JavaScript
-Array of objects book list displayed in HTML using the DOM and JavaScript 
+# Book-List-JavaScript
+ Array of Object Book List displayed in HTML using DOM and JavaScript
